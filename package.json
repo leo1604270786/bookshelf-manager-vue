@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "echarts": "^4.7.0",
     "element-ui": "^2.13.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "three": "^0.114.0",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbitcontrols": "^2.110.3",
